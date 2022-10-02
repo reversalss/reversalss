@@ -1,3 +1,3 @@
-<h1>I am @reversalss!</h1>
-comp-sci student interested in software development.
-don't know if or when I will post my projects here
+<h1>Hi! I am @reversalss!</h1>
+Aspiring Dev
+High School computer science student
